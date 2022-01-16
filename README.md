@@ -8,7 +8,7 @@ I'm not one to show off, so if you came to this profile expecting to learn what 
 
 * **Codeberg** — [Solsticely](https://codeberg.org/Solsticely)
 * **ActivityPub & Mastodon** — [@solsticely@voring.me](https://voring.me/@Solsticely)
-* **Matrix & Element** — @solsticely:the-apothecary.club
+* **Matrix & Element** — [@solsticely:the-apothecary.club](https://matrix.to/#/@solsticely:the-apothecary.club)
 
 **My pronouns are e·em, she·her, and they·them** in order of preference. Don't stress about it though, I wont't get mad if you mess them up.
 (_en français mes pronoms sont iel+fem et elle, j'ai pas de préférence_)
